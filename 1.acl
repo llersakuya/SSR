@@ -6576,7 +6576,7 @@
 (^|\.)playstation\.net$
 
 # LoveLive服务器
-(^|\.)cloudfront\.net
+(^|\.)cloudfront\.net$
 
 # CGSS服务器
 203.104.249.195
