@@ -6607,6 +6607,15 @@
 (^|\.)playstation\.com$
 (^|\.)playstation\.net$
 
+# LoveLive
+(^|\.)lovelive\.ge\.klabgames\.net$
+54.182.1.*
+
+# CGSS
+(^|\.)game\.starlight-stage\.jp$
+2.21.71.91
+
+
 #************************************************
 [remote_dns]
 (^|\.)\w*google\w*\.\w*$
