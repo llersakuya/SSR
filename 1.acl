@@ -6616,6 +6616,10 @@
 (^|\.)game\.starlight-stage\.jp$
 (^|\.)w7\.akamai\.net$
 
+# Kirara Fantasia
+(^|\.)compute\.amazonaws\.com$
+
+
 #************************************************
 [remote_dns]
 (^|\.)\w*google\w*\.\w*$
