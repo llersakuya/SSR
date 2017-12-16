@@ -6609,6 +6609,7 @@
 
 # LoveLive
 (^|\.)lovelive\.ge\.klabgames\.net$
+(^|\.)cloudfront\.net$
 54.182.1.*
 
 # CGSS
