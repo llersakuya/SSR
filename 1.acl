@@ -6618,7 +6618,8 @@
 
 # Kirara Fantasia
 (^|\.)compute\.amazonaws\.com$
-
+(^|\.)cloud\.unity3d\.com$
+config\.uca\.cloud\.unity3d\.com$
 
 #************************************************
 [remote_dns]
