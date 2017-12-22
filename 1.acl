@@ -6619,7 +6619,11 @@
 # Kirara Fantasia
 (^|\.)compute\.amazonaws\.com$
 (^|\.)cloud\.unity3d\.com$
+(^|\.)star-api\.com$
 config\.uca\.cloud\.unity3d\.com$
+krr-prd\.star-api\.com$
+asset-krr-prd\.star-api\.com$
+
 
 #************************************************
 [remote_dns]
