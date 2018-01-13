@@ -6651,3 +6651,6 @@ asset-krr-prd\.star-api\.com$
 e-hentai\.org$
 exhentai\.org$
 ehgt\.org$
+
+# IP
+(^|\.)cman\.jp$
