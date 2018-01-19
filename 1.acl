@@ -1,6 +1,6 @@
 #**********************************************************************
-# 01.09
-# 2018年1月9日09:18:17
+# 01.19
+# 2018年1月19日09:07:56
 # 转载需要注明版权和来源
 # 
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -17,7 +17,7 @@
 ### 默认直连 自己可以自定义
 ### [outbound_block_list] 禁止访问列表 在26行
 ### [bypass_list] 直连列表 禁止访问列表 在723多行
-### [proxy_list] 代理列表 在3371多行
+### [proxy_list] 代理列表 在1205多行
 
 #**********************************************************************
 [outbound_block_list]
@@ -203,9 +203,8 @@
 (^|\.)service\.urchin\.com$
 
 # JD
-(^|\.)(c-nfa|du|img-x|jrclick|jzt|policy)\.jd\.com$
+(^|\.)(c-nfa|img-x|jrclick|jzt|policy)\.jd\.com$
 (^|\.)ads\.union\.jd\.com$
-(^|\.)click\.jr\.jd\.com$
 (^|\.)cps\.360buy\.com$
 (^|\.)stat\.m\.jd\.com$
 
@@ -1217,6 +1216,9 @@
 (^|\.)xn--i2ru8q2qg\.com$
 (^|\.)twimg\.org$
 (^|\.)eu-west-1\.compute\.amazonaws\.com$
+(^|\.)ec2-52\w*\.compute-1\.amazonaws\.com$
+(^|\.)fra53\.r\.cloudfront\.net$
+(^|\.)textnow\.me$
 
 #GFWList IP start
 85.17.73.31
@@ -6608,12 +6610,9 @@
 203.174.77.0/24
 
 # Telegram
-109.239.140.0/24
-149.154.160.0/22
-149.154.164.0/22
-149.154.168.0/22
-149.154.172.0/22
 91.108.0.0/16
+109.239.140.0/24
+149.154.160.0/20
 
 #ResiloSync
 173.244.217.42/32
@@ -6623,6 +6622,10 @@
 54.235.182.157/32
 (^|\.)config\.getsync\.com$
 (^|\.)config\.resilio\.com$
+
+# IP
+(^|\.)cman\.jp$
+(^|\.)ipv6-test\.com$
 
 # Playstation
 (^|\.)playstation\.com$
@@ -6652,6 +6655,3 @@ e-hentai\.org$
 exhentai\.org$
 ehgt\.org$
 
-# IP
-(^|\.)cman\.jp$
-(^|\.)ipv6-test\.com$
