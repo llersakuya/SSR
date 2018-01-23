@@ -6627,6 +6627,17 @@
 (^|\.)cman\.jp$
 (^|\.)ipv6-test\.com$
 
+# e-hentai
+(^|\.)e-hentai\.org$
+(^|\.)exhentai\.org$
+e-hentai\.org$
+exhentai\.org$
+ehgt\.org$
+
+# Hentai Torrent Link
+(^|\.)javtorrent\.re$
+(^|\.)1be\.biz$
+
 # Playstation
 (^|\.)playstation\.com$
 (^|\.)playstation\.net$
@@ -6647,11 +6658,4 @@
 config\.uca\.cloud\.unity3d\.com$
 krr-prd\.star-api\.com$
 asset-krr-prd\.star-api\.com$
-
-# e-hentai
-(^|\.)e-hentai\.org$
-(^|\.)exhentai\.org$
-e-hentai\.org$
-exhentai\.org$
-ehgt\.org$
 
