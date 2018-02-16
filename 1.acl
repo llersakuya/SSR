@@ -6662,3 +6662,7 @@ config\.uca\.cloud\.unity3d\.com$
 krr-prd\.star-api\.com$
 asset-krr-prd\.star-api\.com$
 
+# Priconne Redive
+omotenashi\.cygames\.jp$
+priconne-redive\.akamaized\.net$
+app.priconne-redive\.jp$
